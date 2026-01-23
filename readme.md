@@ -178,6 +178,14 @@ docker compose up --build
 
 ---
 
+## 🚀 Possible Enhancements
+
+- Adaptive chunk sizing
+- Pause/Resume button
+- Scheduled cleanup jobs
+- Authentication & authorization
+- Cloud storage support (S3 / GCS)
+
 
 
 ---
