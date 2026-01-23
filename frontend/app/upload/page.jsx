@@ -369,7 +369,7 @@ const handleFileSelect = (file) => {
         {zipEntries.length > 0 && (
   <div className="mt-8 bg-slate-900/80 border border-slate-700 rounded-2xl p-6">
     <h3 className="text-lg font-semibold mb-4">
-      ZIP Contents
+      ZIP Contents - {file?.name}
     </h3>
 
     <ul className="max-h-64 overflow-y-auto space-y-2 text-sm">
